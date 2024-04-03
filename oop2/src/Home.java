@@ -14,6 +14,6 @@ public class Home {
 
 
     public void write(){
-        System.out.println("Sokak: "+street+"\nNumara: "+number);
+        System.out.println("Street: "+street+"\nNumber: "+number);
     }
 }
